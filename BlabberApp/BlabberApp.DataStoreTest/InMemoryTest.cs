@@ -1,9 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace BlabberApp.DomainTest
+namespace BlabberApp.DataStoreTest
 {
     [TestClass]
-    public class UnitTest1
+    public class InMemoryTest
     {
         [TestMethod]
         public void TestMethod1()
